@@ -25,6 +25,12 @@ A list of truly awesome SRE or DevOps related stuff.
 - [awesome_bot](https://github.com/dkhamsing/awesome_bot) - awesome_bot checks for valid URLs in a file, it can be used to verify pull requests updating a README.
 - [Keiko](https://github.com/keikoproj/keiko#keiko-components) - Keiko - Enable Kubernetes at scale - from Intuit. Creators of Argo CD etc.
 
+## Orchestration
+
+- [OperatorHub](https://operatorhub.io/) - OperatorHub.io is a new home for the Kubernetes community to share Operators. Find an existing Operator or list your own today.
+- [ArgoCD](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes. https://argoproj.github.io/argo-cd/
+
+
 ## Command Line and Tooling
 
 - [Script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go

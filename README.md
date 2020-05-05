@@ -30,7 +30,6 @@ A list of truly awesome SRE or DevOps related stuff.
 - [OperatorHub](https://operatorhub.io/) - OperatorHub.io is a new home for the Kubernetes community to share Operators. Find an existing Operator or list your own today.
 - [ArgoCD](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes. https://argoproj.github.io/argo-cd/
 
-
 ## Command Line and Tooling
 
 - [Script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
@@ -39,9 +38,13 @@ A list of truly awesome SRE or DevOps related stuff.
 - [asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more https://asdf-vm.com/
   - [asdf-k3d](https://github.com/spencergilbert/asdf-k3d) - k3d plugin for asdf version manager https://github.com/asdf-vm/asdf
 
-# ChatOps
+## ChatOps
 
 - [BotKube](https://github.com/infracloudio/botkube) - App that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices https://botkube.io
+
+## Docker
+
+- [await](https://github.com/saltside/await) - Await tool to check resource status.
 
 ## Documentation
 

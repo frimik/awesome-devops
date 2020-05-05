@@ -26,6 +26,11 @@ A list of truly awesome SRE or DevOps related stuff.
 - [awesome_bot](https://github.com/dkhamsing/awesome_bot) - awesome_bot checks for valid URLs in a file, it can be used to verify pull requests updating a README.
 - [Keiko](https://github.com/keikoproj/keiko#keiko-components) - Keiko - Enable Kubernetes at scale - from Intuit. Creators of Argo CD etc.
 
+## Command Line
+
+- [asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more https://asdf-vm.com/
+  - [asdf-k3d](https://github.com/spencergilbert/asdf-k3d) - k3d plugin for asdf version manager https://github.com/asdf-vm/asdf
+
 # ChatOps
 
 - [BotKube](https://github.com/infracloudio/botkube) - App that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices https://botkube.io

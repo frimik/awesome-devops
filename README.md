@@ -5,10 +5,14 @@ A list of truly awesome SRE or DevOps related stuff.
 ## Logs and Observability
 
 ### Logs
+
 - [Kail](https://github.com/boz/kail) - kubernetes log viewer
 - [loghouse](https://github.com/flant/loghouse) - Ready to use log management solution for Kubernetes storing data in [ClickHouse](https://github.com/ClickHouse/ClickHouse) and providing web UI.
 - [Loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. https://grafana.com/loki
 
+### Network logging
+
+- [goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes. https://goreplay.org
 
 ### Observability
 

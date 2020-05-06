@@ -2,6 +2,10 @@
 
 A list of truly awesome SRE or DevOps related stuff.
 
+## Kubernetes
+
+- [pluto](https://github.com/FairwindsOps/pluto) - 
+
 ## Logs and Observability
 
 ### Logs
@@ -37,6 +41,13 @@ A list of truly awesome SRE or DevOps related stuff.
 - [EnvCLI](https://github.com/EnvCLI/EnvCLI) - Don't install Node, Go, ... locally - use containers you define within your project. If you have a new machine / other contributors you just have to install docker and envcli to get started.
 - [asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more https://asdf-vm.com/
   - [asdf-k3d](https://github.com/spencergilbert/asdf-k3d) - k3d plugin for asdf version manager https://github.com/asdf-vm/asdf
+  
+## Templating and configuration management
+
+- [gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources. https://gomplate.ca
+- [confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
+- [remco](https://github.com/HeavyHorst/remco) - remco is a lightweight configuration management tool https://heavyhorst.github.io/remco/
+
 
 ## ChatOps
 

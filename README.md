@@ -5,6 +5,9 @@ A list of truly awesome SRE or DevOps related stuff.
 ## Kubernetes
 
 - [pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes https://fairwinds.com
+- [kube-node-init](https://github.com/mumoshu/kube-node-init) - Kubernetes daemonset for node initial configuration. Currently for modifying files and systemd services on eksctl nodes without changing userdata
+
+
 
 
 ## Terraform
@@ -45,6 +48,7 @@ A list of truly awesome SRE or DevOps related stuff.
 
 - [Script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [Whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
+- [aliases](https://github.com/k-kinzal/aliases) - Resolve dependency on all commands by container
 - [EnvCLI](https://github.com/EnvCLI/EnvCLI) - Don't install Node, Go, ... locally - use containers you define within your project. If you have a new machine / other contributors you just have to install docker and envcli to get started.
 - [asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more https://asdf-vm.com/
   - [asdf-k3d](https://github.com/spencergilbert/asdf-k3d) - k3d plugin for asdf version manager https://github.com/asdf-vm/asdf

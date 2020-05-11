@@ -6,6 +6,12 @@ A list of truly awesome SRE or DevOps related stuff.
 
 - [pluto](https://github.com/FairwindsOps/pluto) - 
 
+## Terraform
+
+- [blast-radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs using d3.js - https://28mm.github.io/blast-radius-docs/
+- [Atlantis](https://www.runatlantis.io/) - Terraform Pull Request Automation
+
+
 ## Logs and Observability
 
 ### Logs

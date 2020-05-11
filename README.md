@@ -48,6 +48,8 @@ A list of truly awesome SRE or DevOps related stuff.
 - [EnvCLI](https://github.com/EnvCLI/EnvCLI) - Don't install Node, Go, ... locally - use containers you define within your project. If you have a new machine / other contributors you just have to install docker and envcli to get started.
 - [asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more https://asdf-vm.com/
   - [asdf-k3d](https://github.com/spencergilbert/asdf-k3d) - k3d plugin for asdf version manager https://github.com/asdf-vm/asdf
+  - [Variant](https://github.com/mumoshu/variant) - Wrap up your bash scripts into a modern CLI today. Graduate to a full-blown golang app tomorrow.
+
   
 ## Templating and configuration management
 

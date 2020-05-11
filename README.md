@@ -4,7 +4,8 @@ A list of truly awesome SRE or DevOps related stuff.
 
 ## Kubernetes
 
-- [pluto](https://github.com/FairwindsOps/pluto) - 
+- [pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes https://fairwinds.com
+
 
 ## Terraform
 

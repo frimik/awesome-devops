@@ -6,8 +6,7 @@ A list of truly awesome SRE or DevOps related stuff.
 
 - [pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes https://fairwinds.com
 - [kube-node-init](https://github.com/mumoshu/kube-node-init) - Kubernetes daemonset for node initial configuration. Currently for modifying files and systemd services on eksctl nodes without changing userdata
-
-
+- [Vitess](https://vitess.io/) - A database clustering system for horizontal scaling of MySQL
 
 
 ## Terraform

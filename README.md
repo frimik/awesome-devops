@@ -8,6 +8,9 @@ A list of truly awesome SRE or DevOps related stuff.
 - [kube-node-init](https://github.com/mumoshu/kube-node-init) - Kubernetes daemonset for node initial configuration. Currently for modifying files and systemd services on eksctl nodes without changing userdata
 - [Vitess](https://vitess.io/) - A database clustering system for horizontal scaling of MySQL
 
+### Storage
+
+- [longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed block storage built on and for Kubernetes
 
 ## Terraform
 

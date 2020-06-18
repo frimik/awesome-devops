@@ -9,7 +9,7 @@ A list of truly awesome SRE or DevOps related stuff.
 - [Vitess](https://vitess.io/) - A database clustering system for horizontal scaling of MySQL
 - [Kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [Forecastle](https://github.com/stakater/Forecastle) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes
-
+- [KubeStitch](https://github.com/zloeber/KubeStitch) - Kubernetes deployment stitcher - local development and demo stack.
 
 
 ### Storage

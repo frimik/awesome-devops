@@ -10,6 +10,8 @@ A list of truly awesome SRE or DevOps related stuff.
 - [Kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [Forecastle](https://github.com/stakater/Forecastle) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes
 - [KubeStitch](https://github.com/zloeber/KubeStitch) - Kubernetes deployment stitcher - local development and demo stack.
+- [trow](https://github.com/ContainerSolutions/trow) - Container Registry and Image Management for Kubernetes Clusters
+- [Harbor](https://goharbor.io/) - An open source trusted cloud native registry project that stores, signs, and scans content.
 
 
 ### Storage
@@ -72,6 +74,7 @@ A list of truly awesome SRE or DevOps related stuff.
 - [confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
 - [remco](https://github.com/HeavyHorst/remco) - remco is a lightweight configuration management tool https://heavyhorst.github.io/remco/
 - [Konfigurator](https://github.com/stakater/Konfigurator) - A kubernetes operator that dynamically generates and manages app configuration based on kubernetes resources
+- [Bullet Train](https://bullet-train.io/) - Manage feature flags across web, mobile and server side applications
 
 
 ## ChatOps

@@ -12,7 +12,7 @@ A list of truly awesome SRE or DevOps related stuff.
 - [KubeStitch](https://github.com/zloeber/KubeStitch) - Kubernetes deployment stitcher - local development and demo stack.
 - [trow](https://github.com/ContainerSolutions/trow) - Container Registry and Image Management for Kubernetes Clusters
 - [Harbor](https://goharbor.io/) - An open source trusted cloud native registry project that stores, signs, and scans content.
-
+- [Dragonfly](https://github.com/dragonflyoss/Dragonfly) - Dragonfly is an intelligent P2P based image and file distribution system
 
 ### Storage
 

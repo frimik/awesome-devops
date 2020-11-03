@@ -86,6 +86,11 @@ A list of truly awesome SRE or DevOps related stuff.
 
 - [await](https://github.com/saltside/await) - Await tool to check resource status.
 
+## Build tools
+
+- [Earthly](https://www.earthly.dev/) - Build automation for the container era
+
+
 ## Documentation
 
 - [Grip](https://github.com/joeyespo/grip) - Preview GitHub Markdown files like Readme locally before committing them.

@@ -41,7 +41,7 @@ A list of truly awesome SRE or DevOps related stuff.
 - [Prometheus](http://prometheus.io/) - Obviously ...
 - [kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi. https://pulumi.io/
 - [kube-ops-view](https://github.com/hjacobs/kube-ops-view) - Kubernetes Operational View - read-only system dashboard for multiple K8s clusters
-- [gosivy](https://github.com/nakabonne/gosivy - Another visualization tool for Go process metrics.
+- [gosivy](https://github.com/nakabonne/gosivy) - Another visualization tool for Go process metrics.
 
 #### Prometheus
 

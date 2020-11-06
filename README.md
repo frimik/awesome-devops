@@ -92,6 +92,8 @@ Smart Rebuilds, Continuous Feedback, Live Updates, Snapshots, and a lot more. ti
 ## Docker
 
 - [await](https://github.com/saltside/await) - Await tool to check resource status.
+- [aws-ecr-public](https://github.com/monken/aws-ecr-public) - Public endpoint for AWS Elastic Container Registry
+
 
 ## Build tools
 

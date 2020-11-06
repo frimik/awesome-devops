@@ -20,6 +20,8 @@ A list of truly awesome SRE or DevOps related stuff.
 - [Tilt](https://tilt.dev/) - Productivity for teams building Kubernetes apps.
 Smart Rebuilds, Continuous Feedback, Live Updates, Snapshots, and a lot more. tilt up and grok your workflow.
 - [DevSpace](https://github.com/devspace-cloud/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes zap Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+- [Loft](https://github.com/loft-sh/loft) - Namespace & Virtual Cluster Manager for Kubernetes - Lightweight Virtual Clusters, Self-Service Provisioning for Engineers and 70% Cost Savings with Sleep Mode
+
 
 ### Storage
 

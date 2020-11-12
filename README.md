@@ -95,7 +95,8 @@ Smart Rebuilds, Continuous Feedback, Live Updates, Snapshots, and a lot more. ti
 
 - [await](https://github.com/saltside/await) - Await tool to check resource status.
 - [aws-ecr-public](https://github.com/monken/aws-ecr-public) - Public endpoint for AWS Elastic Container Registry
-
+- [whoami](https://github.com/traefik/whoami) - Tiny Go webserver that prints os information and HTTP request to output
+- [local-docker-registry-proxy](https://github.com/frimik/local-docker-registry-proxy) - Local Docker registry proxy stack for swift K3D (and other) container-related workflows.
 
 ## Build tools
 

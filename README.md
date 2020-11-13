@@ -13,6 +13,7 @@ A list of truly awesome SRE or DevOps related stuff.
 - [trow](https://github.com/ContainerSolutions/trow) - Container Registry and Image Management for Kubernetes Clusters
 - [Harbor](https://goharbor.io/) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [Dragonfly](https://github.com/dragonflyoss/Dragonfly) - Dragonfly is an intelligent P2P based image and file distribution system
+- [Kuard](https://github.com/kubernetes-up-and-running/kuard) - Demo app for Kubernetes Up and Running book - Useful for testing basics of readynesschecks behaviours etc.
 
 ### Development environments
 

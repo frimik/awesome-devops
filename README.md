@@ -16,7 +16,7 @@ A list of truly awesome SRE or DevOps related stuff.
 - [Kuard](https://github.com/kubernetes-up-and-running/kuard) - Demo app for Kubernetes Up and Running book - Useful for testing basics of readynesschecks behaviours etc.
 - [nodetaint](https://github.com/wish/nodetaint) - Controller to manage taints for nodes in a k8s cluster.
 - [nidhogg](https://github.com/uswitch/nidhogg) - Kubernetes Node taints based on Daemonset Pods
-
+- [gangway](https://github.com/heptiolabs/gangway) - An application that can be used to easily enable authentication flows via OIDC for a kubernetes cluster.
 
 
 ### Development environments

@@ -56,6 +56,7 @@ Smart Rebuilds, Continuous Feedback, Live Updates, Snapshots, and a lot more. ti
 - [kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi. https://pulumi.io/
 - [kube-ops-view](https://codeberg.org/hjacobs/kube-ops-view) - Kubernetes Operational View - read-only system dashboard for multiple K8s clusters
 - [gosivy](https://github.com/nakabonne/gosivy) - Another visualization tool for Go process metrics.
+- [cloudprober](https://cloudprober.org/) - An active monitoring software to detect failures before your customers do.
 
 #### Prometheus
 

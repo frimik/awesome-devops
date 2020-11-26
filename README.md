@@ -19,6 +19,7 @@ A list of truly awesome SRE or DevOps related stuff.
 - [nidhogg](https://github.com/uswitch/nidhogg) - Kubernetes Node taints based on Daemonset Pods
 - [gangway](https://github.com/heptiolabs/gangway) - An application that can be used to easily enable authentication flows via OIDC for a kubernetes cluster.
 - [kapp](https://get-kapp.io/) - Deploy and view groups of Kubernetes resources as "applications". Apply changes safely and predictably, watching resources as they converge.
+- [k8s-metadata-injector](https://github.com/almariah/k8s-metadata-injector) - Inject metadata into kubernetes resources based on namespces
 
 ### Development environments
 

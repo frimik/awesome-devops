@@ -33,6 +33,8 @@ Smart Rebuilds, Continuous Feedback, Live Updates, Snapshots, and a lot more. ti
 ### Storage
 
 - [longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed block storage built on and for Kubernetes
+- [minio](https://min.io/) - Kubernetes Native, High Performance Object Storage
+
 
 ## Terraform
 

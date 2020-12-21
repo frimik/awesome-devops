@@ -23,6 +23,9 @@ A list of truly awesome SRE or DevOps related stuff.
 - [kubeapps](https://kubeapps.com/) - Your Application Dashboard for Kubernetes
 . [helm-controller](https://github.com/k3s-io/helm-controller) - A simple way to manage helm charts (v2 and v3) with a Custom Resource Definitions in k8s.
 
+## EC2
+
+- [ec2-instance-selector](https://github.com/aws/amazon-ec2-instance-selector.git) - A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory
 
 ### Development environments
 

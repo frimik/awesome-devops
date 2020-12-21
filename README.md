@@ -22,6 +22,8 @@ A list of truly awesome SRE or DevOps related stuff.
 - [k8s-metadata-injector](https://github.com/almariah/k8s-metadata-injector) - Inject metadata into kubernetes resources based on namespces
 - [kubeapps](https://kubeapps.com/) - Your Application Dashboard for Kubernetes
 - [helm-controller](https://github.com/k3s-io/helm-controller) - A simple way to manage helm charts (v2 and v3) with a Custom Resource Definitions in k8s.
+- [carvel](https://carvel.dev/) - Carvel provides a set of reliable, single-purpose, composable tools that aid in your application building, configuration, and deployment to Kubernetes.
+
 
 ## EC2
 

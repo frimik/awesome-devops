@@ -79,6 +79,8 @@ Smart Rebuilds, Continuous Feedback, Live Updates, Snapshots, and a lot more. ti
 
 - [awesome_bot](https://github.com/dkhamsing/awesome_bot) - awesome_bot checks for valid URLs in a file, it can be used to verify pull requests updating a README.
 - [Keiko](https://github.com/keikoproj/keiko#keiko-components) - Keiko - Enable Kubernetes at scale - from Intuit. Creators of Argo CD etc.
+- [renovate](https://github.com/renovatebot/renovate.git) - Renovatebot - Universal dependency update tool that fits into your workflows.
+
 
 ## Orchestration
 

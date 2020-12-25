@@ -24,7 +24,7 @@ A list of truly awesome SRE or DevOps related stuff.
 - [helm-controller](https://github.com/k3s-io/helm-controller) - A simple way to manage helm charts (v2 and v3) with a Custom Resource Definitions in k8s.
 - [carvel](https://carvel.dev/) - Carvel provides a set of reliable, single-purpose, composable tools that aid in your application building, configuration, and deployment to Kubernetes.
 - [k8s-image-swaper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
-
+- [kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) - Prometheus Monitoring Mixin for Kubernetes - A set of Grafana dashboards and Prometheus alerts for Kubernetes.
 
 
 ## EC2

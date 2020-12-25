@@ -106,7 +106,7 @@ Smart Rebuilds, Continuous Feedback, Live Updates, Snapshots, and a lot more. ti
 - [confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
 - [remco](https://github.com/HeavyHorst/remco) - remco is a lightweight configuration management tool https://heavyhorst.github.io/remco/
 - [Konfigurator](https://github.com/stakater/Konfigurator) - A kubernetes operator that dynamically generates and manages app configuration based on kubernetes resources
-- [Bullet Train](https://bullet-train.io/) - Manage feature flags across web, mobile and server side applications
+- [FlagSmith](https://flagsmith.com/) - Manage feature flags across web, mobile and server side applications
 
 
 ## ChatOps

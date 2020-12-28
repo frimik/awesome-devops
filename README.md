@@ -25,6 +25,8 @@ A list of truly awesome SRE or DevOps related stuff.
 - [carvel](https://carvel.dev/) - Carvel provides a set of reliable, single-purpose, composable tools that aid in your application building, configuration, and deployment to Kubernetes.
 - [k8s-image-swaper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
 - [kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) - Prometheus Monitoring Mixin for Kubernetes - A set of Grafana dashboards and Prometheus alerts for Kubernetes.
+- [banzaicloud/bank-vaults](https://github.com/banzaicloud/bank-vaults) - A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.
+
 
 
 ## EC2

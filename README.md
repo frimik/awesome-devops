@@ -129,9 +129,7 @@ Smart Rebuilds, Continuous Feedback, Live Updates, Snapshots, and a lot more. ti
 
 ## On prem
 
-- [seesaw](https://github.com/google/seesaw) - Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform. Binaries: [Shelmangroup](https://github.com/shelmangroup/seesaw)
-
-
+- [seesaw](https://github.com/google/seesaw) - Seesaw v2 is a [Linux Virtual Server (LVS) based load balancing platform](https://opensource.googleblog.com/2016/01/seesaw-scalable-and-robust-load.html). Binaries: [Shelmangroup](https://github.com/shelmangroup/seesaw)
 
 ## Documentation
 

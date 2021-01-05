@@ -139,6 +139,10 @@ Smart Rebuilds, Continuous Feedback, Live Updates, Snapshots, and a lot more. ti
 
 - [Concourse CI](https://concourse-ci.org/) - Continuous thingdoer - Concourse presents a general approach to automation that makes it great for CI/CD.
 
+## Python
+
+- [python-poetry](https://python-poetry.org/) - PYTHON PACKAGING AND DEPENDENCY MANAGEMENT MADE EASY
+
 ## Other
 
 - [Proxmox](https://www.proxmox.com/en/) - powerful and efficient open-source software to simplify your server management

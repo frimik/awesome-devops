@@ -143,6 +143,12 @@ Smart Rebuilds, Continuous Feedback, Live Updates, Snapshots, and a lot more. ti
 
 - [python-poetry](https://python-poetry.org/) - PYTHON PACKAGING AND DEPENDENCY MANAGEMENT MADE EASY
 
+## Go
+
+GoLang
+
+- [lile](https://github.com/lileio/lile) - Easily generate gRPC services in Go :zap:
+
 ## Other
 
 - [Proxmox](https://www.proxmox.com/en/) - powerful and efficient open-source software to simplify your server management

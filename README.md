@@ -148,6 +148,8 @@ Smart Rebuilds, Continuous Feedback, Live Updates, Snapshots, and a lot more. ti
 GoLang
 
 - [lile](https://github.com/lileio/lile) - Easily generate gRPC services in Go :zap:
+- [goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible. [gorelaser.com](https://goreleaser.com/)
+
 
 ## Other
 

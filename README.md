@@ -157,3 +157,7 @@ GoLang
 ## Other
 
 - [Proxmox](https://www.proxmox.com/en/) - powerful and efficient open-source software to simplify your server management
+- [Excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams. - [excalidraw.com](https://excalidraw.com/)
+
+
+

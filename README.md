@@ -70,6 +70,7 @@ Smart Rebuilds, Continuous Feedback, Live Updates, Snapshots, and a lot more. ti
 ### Observability
 
 - [Prometheus](http://prometheus.io/) - Obviously ...
+- [promcat](https://promcat.io/) - A resource catalog for enterprise-class Prometheus monitoringyou
 - [kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi. https://pulumi.io/
 - [kube-ops-view](https://codeberg.org/hjacobs/kube-ops-view) - Kubernetes Operational View - read-only system dashboard for multiple K8s clusters
 - [gosivy](https://github.com/nakabonne/gosivy) - Another visualization tool for Go process metrics.

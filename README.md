@@ -27,7 +27,7 @@ A list of truly awesome SRE or DevOps related stuff.
 - [kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) - Prometheus Monitoring Mixin for Kubernetes - A set of Grafana dashboards and Prometheus alerts for Kubernetes.
 - [banzaicloud/bank-vaults](https://github.com/banzaicloud/bank-vaults) - A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.
 - [Kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources! (Supercedes kubeval)
-
+- [Contour](https://projectcontour.io/) - open source Kubernetes ingress controller providing the control plane for the Envoy edge and service proxy.​ 
 
 ## EC2
 

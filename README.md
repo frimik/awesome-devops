@@ -4,6 +4,8 @@ A list of truly awesome SRE or DevOps related stuff.
 
 ## Kubernetes
 
+- [popeye](https://github.com/derailed/popeye) - :eyes: A Kubernetes cluster resource sanitizer. [popeyecli.io](https://popeyecli.io/)
+- [k9s](https://github.com/derailed/k9s) - :dog: Kubernetes CLI To Manage Your Clusters In Style! [k9scli.io](https://k9scli.io/)
 - [pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes - [Easily Find Deprecated API Versions with Pluto](https://www.fairwinds.com/blog/kubernetes-easily-find-deprecated-api-versions-with-pluto)
 - [helm-mapkubeapis](https://github.com/hickeyma/helm-mapkubeapis) - This is a Helm plugin which map deprecated or removed Kubernetes APIs in a release to supported APIs
 - [kube-node-init](https://github.com/mumoshu/kube-node-init) - Kubernetes daemonset for node initial configuration. Currently for modifying files and systemd services on eksctl nodes without changing userdata

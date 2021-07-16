@@ -4,6 +4,7 @@ A list of truly awesome SRE or DevOps related stuff.
 
 ## Kubernetes
 
+- [Polaris](https://github.com/FairwindsOps/polaris) - Validation of best practices in your Kubernetes clusters
 - [popeye](https://github.com/derailed/popeye) - :eyes: A Kubernetes cluster resource sanitizer. [popeyecli.io](https://popeyecli.io/)
 - [k9s](https://github.com/derailed/k9s) - :dog: Kubernetes CLI To Manage Your Clusters In Style! [k9scli.io](https://k9scli.io/)
 - [pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes - [Easily Find Deprecated API Versions with Pluto](https://www.fairwinds.com/blog/kubernetes-easily-find-deprecated-api-versions-with-pluto)

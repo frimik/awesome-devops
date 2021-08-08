@@ -163,6 +163,7 @@ GoLang
 Networks, firewalls etc
 
 - [vyos](https://github.com/vyos/) - Open source router and firewall platform. [vyos.io](https://vyos.io/)
+- [Nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security. [defined.net](https://www.defined.net/)
 
 ## Other
 

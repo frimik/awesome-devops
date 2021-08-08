@@ -4,39 +4,72 @@ A list of truly awesome SRE or DevOps related stuff.
 
 ## Kubernetes
 
-- [Polaris](https://github.com/FairwindsOps/polaris) - Validation of best practices in your Kubernetes clusters
-- [popeye](https://github.com/derailed/popeye) - :eyes: A Kubernetes cluster resource sanitizer. [popeyecli.io](https://popeyecli.io/)
-- [k9s](https://github.com/derailed/k9s) - :dog: Kubernetes CLI To Manage Your Clusters In Style! [k9scli.io](https://k9scli.io/)
-- [pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes - [Easily Find Deprecated API Versions with Pluto](https://www.fairwinds.com/blog/kubernetes-easily-find-deprecated-api-versions-with-pluto)
+- [Keiko](https://github.com/keikoproj/keiko#keiko-components) - Keiko - Enable Kubernetes at scale - from Intuit. Creators of Argo CD etc.
 - [helm-mapkubeapis](https://github.com/hickeyma/helm-mapkubeapis) - This is a Helm plugin which map deprecated or removed Kubernetes APIs in a release to supported APIs
 - [kube-node-init](https://github.com/mumoshu/kube-node-init) - Kubernetes daemonset for node initial configuration. Currently for modifying files and systemd services on eksctl nodes without changing userdata
-- [Vitess](https://vitess.io/) - A database clustering system for horizontal scaling of MySQL
-- [Kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
-- [Forecastle](https://github.com/stakater/Forecastle) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes
-- [KubeStitch](https://github.com/zloeber/KubeStitch) - Kubernetes deployment stitcher - local development and demo stack.
-- [trow](https://github.com/ContainerSolutions/trow) - Container Registry and Image Management for Kubernetes Clusters
-- [Harbor](https://goharbor.io/) - An open source trusted cloud native registry project that stores, signs, and scans content.
-- [Dragonfly](https://github.com/dragonflyoss/Dragonfly) - Dragonfly is an intelligent P2P based image and file distribution system
 - [Kuard](https://github.com/kubernetes-up-and-running/kuard) - Demo app for Kubernetes Up and Running book - Useful for testing basics of readynesschecks behaviours etc.
 - [nodetaint](https://github.com/wish/nodetaint) - Controller to manage taints for nodes in a k8s cluster.
 - [nidhogg](https://github.com/uswitch/nidhogg) - Kubernetes Node taints based on Daemonset Pods
-- [gangway](https://github.com/heptiolabs/gangway) - An application that can be used to easily enable authentication flows via OIDC for a kubernetes cluster.
 - [kapp](https://get-kapp.io/) - Deploy and view groups of Kubernetes resources as "applications". Apply changes safely and predictably, watching resources as they converge.
 - [k8s-metadata-injector](https://github.com/almariah/k8s-metadata-injector) - Inject metadata into kubernetes resources based on namespces
 - [kubeapps](https://kubeapps.com/) - Your Application Dashboard for Kubernetes
 - [helm-controller](https://github.com/k3s-io/helm-controller) - A simple way to manage helm charts (v2 and v3) with a Custom Resource Definitions in k8s.
 - [carvel](https://carvel.dev/) - Carvel provides a set of reliable, single-purpose, composable tools that aid in your application building, configuration, and deployment to Kubernetes.
 - [k8s-image-swaper](https://github.com/estahn/k8s-image-swapper) - :wheel_of_dharma: Mirror images into your own registry and swap image references automatically.
-- [kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) - Prometheus Monitoring Mixin for Kubernetes - A set of Grafana dashboards and Prometheus alerts for Kubernetes.
 - [banzaicloud/bank-vaults](https://github.com/banzaicloud/bank-vaults) - A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.
-- [Kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources! (Supercedes kubeval)
 - [Contour](https://projectcontour.io/) - open source Kubernetes ingress controller providing the control plane for the Envoy edge and service proxy.​ 
 
-## EC2
+### Kubernetes // Observability
 
-- [ec2-instance-selector](https://github.com/aws/amazon-ec2-instance-selector.git) - A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory
+- [cloudprober](https://cloudprober.org/) - An active monitoring software to detect failures before your customers do.
+- [kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) - Prometheus Monitoring Mixin for Kubernetes - A set of Grafana dashboards and Prometheus alerts for Kubernetes.
 
-### Development environments
+### Kubernetes // Grafana Labs
+
+- [Prometheus](http://prometheus.io/) - Obviously ...
+- [Loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. https://grafana.com/loki
+- [promcat](https://promcat.io/) - A resource catalog for enterprise-class Prometheus monitoringyou
+
+### Kubernetes // Authentication
+
+- [kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)
+- [gangway](https://github.com/heptiolabs/gangway) - An application that can be used to easily enable authentication flows via OIDC for a kubernetes cluster.
+
+### Kubernetes // Dashboards, UI, Reporting and Validation
+
+- [k9s](https://github.com/derailed/k9s) - :dog: Kubernetes CLI To Manage Your Clusters In Style! [k9scli.io](https://k9scli.io/)
+- [Polaris](https://github.com/FairwindsOps/polaris) - Validation of best practices in your Kubernetes clusters
+- [Forecastle](https://github.com/stakater/Forecastle) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes
+- [kube-ops-view](https://codeberg.org/hjacobs/kube-ops-view) - Kubernetes Operational View - read-only system dashboard for multiple K8s clusters
+- [BotKube](https://github.com/infracloudio/botkube) - App that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices https://botkube.io
+- [popeye](https://github.com/derailed/popeye) - :eyes: A Kubernetes cluster resource sanitizer. [popeyecli.io](https://popeyecli.io/)
+- [pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes - [Easily Find Deprecated API Versions with Pluto](https://www.fairwinds.com/blog/kubernetes-easily-find-deprecated-api-versions-with-pluto)
+- [Kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources! (Supercedes kubeval)
+- [Kail](https://github.com/boz/kail) - kubernetes log viewer
+- [kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi. https://pulumi.io/
+
+### Kubernetes // Storage and Databases
+
+- [Vitess](https://vitess.io/) - A database clustering system for horizontal scaling of MySQL
+
+### Kubernetes // Provisioning and Dev Clusters
+
+- [KubeStitch](https://github.com/zloeber/KubeStitch) - Kubernetes deployment stitcher - local development and demo stack.
+
+### Kubernetes // Image Registries and Image Distribution
+
+- [Kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
+- [trow](https://github.com/ContainerSolutions/trow) - Container Registry and Image Management for Kubernetes Clusters
+- [Harbor](https://goharbor.io/) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [Dragonfly](https://github.com/dragonflyoss/Dragonfly) - Dragonfly is an intelligent P2P based image and file distribution system
+
+### Kubernetes // Orchestration
+
+- [OperatorHub](https://operatorhub.io/) - OperatorHub.io is a new home for the Kubernetes community to share Operators. Find an existing Operator or list your own today.
+- [ArgoCD](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes. https://argoproj.github.io/argo-cd/
+- [flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
+
+### Kubernetes // Development environments
 
 - [Skaffold](https://skaffold.dev/) - Skaffold handles the workflow for building, pushing and deploying your application, allowing you to focus on what matters most: writing code.
 - [Tilt](https://tilt.dev/) - Productivity for teams building Kubernetes apps.
@@ -44,12 +77,16 @@ Smart Rebuilds, Continuous Feedback, Live Updates, Snapshots, and a lot more. ti
 - [DevSpace](https://github.com/devspace-cloud/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes zap Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [Loft](https://github.com/loft-sh/loft) - Namespace & Virtual Cluster Manager for Kubernetes - Lightweight Virtual Clusters, Self-Service Provisioning for Engineers and 70% Cost Savings with Sleep Mode
 
+### Kubernetes // Storage
 
-### Storage
-
-- [longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed block storage built on and for Kubernetes
+- [rook](https://rook.io/) - Open-Source, Cloud-Native Storage for Kubernetes - Production ready management for File, Block and Object Storage 
+- [ceph](https://ceph.com/) - Ceph uniquely delivers object, block, and file storage in one unified system.
 - [minio](https://min.io/) - Kubernetes Native, High Performance Object Storage
+- [longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed block storage built on and for Kubernetes
 
+## EC2
+
+- [ec2-instance-selector](https://github.com/aws/amazon-ec2-instance-selector.git) - A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory
 
 ## Terraform
 
@@ -57,14 +94,7 @@ Smart Rebuilds, Continuous Feedback, Live Updates, Snapshots, and a lot more. ti
 - [Atlantis](https://www.runatlantis.io/) - Terraform Pull Request Automation
 - [Pluralith](https://www.pluralith.com/) - Infrastructure State Visualisation
 
-
 ## Logs and Observability
-
-### Logs
-
-- [Kail](https://github.com/boz/kail) - kubernetes log viewer
-- [loghouse](https://github.com/flant/loghouse) - Ready to use log management solution for Kubernetes storing data in [ClickHouse](https://github.com/ClickHouse/ClickHouse) and providing web UI.
-- [Loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. https://grafana.com/loki
 
 ### Network logging
 
@@ -72,30 +102,17 @@ Smart Rebuilds, Continuous Feedback, Live Updates, Snapshots, and a lot more. ti
 
 ### Observability
 
-- [Prometheus](http://prometheus.io/) - Obviously ...
-- [promcat](https://promcat.io/) - A resource catalog for enterprise-class Prometheus monitoringyou
-- [kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi. https://pulumi.io/
-- [kube-ops-view](https://codeberg.org/hjacobs/kube-ops-view) - Kubernetes Operational View - read-only system dashboard for multiple K8s clusters
 - [gosivy](https://github.com/nakabonne/gosivy) - Another visualization tool for Go process metrics.
-- [cloudprober](https://cloudprober.org/) - An active monitoring software to detect failures before your customers do.
 
 #### Prometheus
 
 - [M3](https://eng.uber.com/m3/) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform https://m3db.io/
 
-
 ## Automation and tasking
 
 - [awesome_bot](https://github.com/dkhamsing/awesome_bot) - awesome_bot checks for valid URLs in a file, it can be used to verify pull requests updating a README.
-- [Keiko](https://github.com/keikoproj/keiko#keiko-components) - Keiko - Enable Kubernetes at scale - from Intuit. Creators of Argo CD etc.
 - [renovate](https://github.com/renovatebot/renovate.git) - Renovatebot - Universal dependency update tool that fits into your workflows.
 - [carvel vendir](https://github.com/vmware-tanzu/carvel-vendir) - Easy way to vendor portions of git repos, github releases, helm charts, docker image contents, etc. declaratively
-
-## Orchestration
-
-- [OperatorHub](https://operatorhub.io/) - OperatorHub.io is a new home for the Kubernetes community to share Operators. Find an existing Operator or list your own today.
-- [ArgoCD](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes. https://argoproj.github.io/argo-cd/
-- [flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
 
 ## Command Line and Tooling
 
@@ -106,7 +123,6 @@ Smart Rebuilds, Continuous Feedback, Live Updates, Snapshots, and a lot more. ti
 - [asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more https://asdf-vm.com/
   - [asdf-k3d](https://github.com/spencergilbert/asdf-k3d) - k3d plugin for asdf version manager https://github.com/asdf-vm/asdf
   - [Variant](https://github.com/mumoshu/variant) - Wrap up your bash scripts into a modern CLI today. Graduate to a full-blown golang app tomorrow.
-
   
 ## Templating and configuration management
 
@@ -115,11 +131,6 @@ Smart Rebuilds, Continuous Feedback, Live Updates, Snapshots, and a lot more. ti
 - [remco](https://github.com/HeavyHorst/remco) - remco is a lightweight configuration management tool https://heavyhorst.github.io/remco/
 - [Konfigurator](https://github.com/stakater/Konfigurator) - A kubernetes operator that dynamically generates and manages app configuration based on kubernetes resources
 - [FlagSmith](https://flagsmith.com/) - Manage feature flags across web, mobile and server side applications
-
-
-## ChatOps
-
-- [BotKube](https://github.com/infracloudio/botkube) - App that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices https://botkube.io
 
 ## Docker
 

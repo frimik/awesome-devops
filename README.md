@@ -158,11 +158,15 @@ GoLang
 - [lile](https://github.com/lileio/lile) - Easily generate gRPC services in Go :zap:
 - [goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible. [gorelaser.com](https://goreleaser.com/)
 
+## Networking
+
+Networks, firewalls etc
+
+- [vyos](https://github.com/vyos/) - Open source router and firewall platform. [vyos.io](https://vyos.io/)
 
 ## Other
 
 - [Proxmox](https://www.proxmox.com/en/) - powerful and efficient open-source software to simplify your server management
 - [Excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams. - [excalidraw.com](https://excalidraw.com/)
-
 
 

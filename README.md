@@ -19,6 +19,11 @@ A list of truly awesome SRE or DevOps related stuff.
 - [banzaicloud/bank-vaults](https://github.com/banzaicloud/bank-vaults) - A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.
 - [Contour](https://projectcontour.io/) - open source Kubernetes ingress controller providing the control plane for the Envoy edge and service proxy.​ 
 
+### Kubernetes // Leader Election
+
+- [leaderz](https://github.com/caarlos0-graveyard/leaderz) - Modern `coordination` API based leader election example for [blog post](https://carlosbecker.com/posts/k8s-leader-election/)
+- [leader-elector](https://github.com/openshift/leader-elector) - Leader elector sidecar as explain in Kubernetes blog post: [Simple leader election with Kubernetes and Docker](https://kubernetes.io/blog/2016/01/simple-leader-election-with-kubernetes/)
+
 ### Kubernetes // Observability
 
 - [cloudprober](https://cloudprober.org/) - An active monitoring software to detect failures before your customers do.

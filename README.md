@@ -40,6 +40,7 @@ A list of truly awesome SRE or DevOps related stuff.
 - [kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)
 - [gangway](https://github.com/heptiolabs/gangway) - An application that can be used to easily enable authentication flows via OIDC for a kubernetes cluster.
 
+
 ### Kubernetes // Dashboards, UI, Reporting and Validation
 
 - [k9s](https://github.com/derailed/k9s) - :dog: Kubernetes CLI To Manage Your Clusters In Style! [k9scli.io](https://k9scli.io/)
@@ -185,5 +186,6 @@ Networks, firewalls etc
 
 - [Proxmox](https://www.proxmox.com/en/) - powerful and efficient open-source software to simplify your server management
 - [Excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams. - [excalidraw.com](https://excalidraw.com/)
+- [diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures.
 
 

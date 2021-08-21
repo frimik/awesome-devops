@@ -189,4 +189,6 @@ Networks, firewalls etc
 - [Excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams. - [excalidraw.com](https://excalidraw.com/)
 - [diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures.
 
+## Content Distribution
 
+- [imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images

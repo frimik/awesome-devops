@@ -29,11 +29,13 @@ A list of truly awesome SRE or DevOps related stuff.
 - [cloudprober](https://cloudprober.org/) - An active monitoring software to detect failures before your customers do.
 - [kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) - Prometheus Monitoring Mixin for Kubernetes - A set of Grafana dashboards and Prometheus alerts for Kubernetes.
 
-### Kubernetes // Grafana Labs
+### Kubernetes // Grafana
 
 - [Prometheus](http://prometheus.io/) - Obviously ...
 - [Loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. https://grafana.com/loki
 - [promcat](https://promcat.io/) - A resource catalog for enterprise-class Prometheus monitoringyou
+- [dark](https://github.com/K-Phoen/dark) - (grafana) Dashboards As Resources in Kubernetes
+- [grabana](https://github.com/K-Phoen/grabana) - User-friendly Go library for building Grafana dashboards
 
 ### Kubernetes // Authentication
 

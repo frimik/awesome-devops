@@ -93,6 +93,10 @@ Smart Rebuilds, Continuous Feedback, Live Updates, Snapshots, and a lot more. ti
 - [minio](https://min.io/) - Kubernetes Native, High Performance Object Storage
 - [longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed block storage built on and for Kubernetes
 
+## Kubernetes // Operator Frameworks
+
+- [kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code https://kopf.readthedocs.io/
+
 ## EC2
 
 - [ec2-instance-selector](https://github.com/aws/amazon-ec2-instance-selector.git) - A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory

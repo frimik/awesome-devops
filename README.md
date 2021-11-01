@@ -32,6 +32,7 @@ A list of truly awesome SRE or DevOps related stuff.
 ### Kubernetes // Grafana
 
 - [Prometheus](http://prometheus.io/) - Obviously ...
+- [Karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager
 - [Loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. https://grafana.com/loki
 - [promcat](https://promcat.io/) - A resource catalog for enterprise-class Prometheus monitoringyou
 - [dark](https://github.com/K-Phoen/dark) - (grafana) Dashboards As Resources in Kubernetes

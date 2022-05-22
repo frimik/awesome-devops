@@ -127,6 +127,8 @@ Smart Rebuilds, Continuous Feedback, Live Updates, Snapshots, and a lot more. ti
 - [awesome_bot](https://github.com/dkhamsing/awesome_bot) - awesome_bot checks for valid URLs in a file, it can be used to verify pull requests updating a README.
 - [renovate](https://github.com/renovatebot/renovate.git) - Renovatebot - Universal dependency update tool that fits into your workflows.
 - [carvel vendir](https://github.com/vmware-tanzu/carvel-vendir) - Easy way to vendor portions of git repos, github releases, helm charts, docker image contents, etc. declaratively
+- [semantic-release](https://github.com/semantic-release/semantic-release) - packagerocket Fully automated version management and package publishing - semantic-release.gitbook.io
+
 
 ## Command Line and Tooling
 

@@ -197,6 +197,7 @@ Networks, firewalls etc
 - [Proxmox](https://www.proxmox.com/en/) - powerful and efficient open-source software to simplify your server management
 - [Excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams. - [excalidraw.com](https://excalidraw.com/)
 - [diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures.
+- [Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
 
 ## Content Distribution
 

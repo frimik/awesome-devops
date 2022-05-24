@@ -202,3 +202,7 @@ Networks, firewalls etc
 ## Content Distribution
 
 - [imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
+
+## Performance related
+
+- [ec2-boot-bench](https://github.com/cperciva/ec2-boot-bench) - [Benchmark](https://www.daemonology.net/blog/2021-08-12-EC2-boot-time-benchmarking.html) EC2 instance boot time from API call to accepting TCP connections.

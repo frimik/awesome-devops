@@ -19,6 +19,7 @@ A list of truly awesome SRE or DevOps related stuff.
 - [banzaicloud/bank-vaults](https://github.com/banzaicloud/bank-vaults) - A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.
 - [Contour](https://projectcontour.io/) - open source Kubernetes ingress controller providing the control plane for the Envoy edge and service proxy.​ 
 - [kubernetes-secret-generator](https://github.com/mittwald/kubernetes-secret-generator) - Kubernetes controller for automatically generating and updating secrets
+- [kube-ns-suspender](https://github.com/govirtuo/kube-ns-suspender) - A k8s controller that scales up and down namespaces on-demand with an embedded friendly UI and a Prometheus exporter. Inspired by kube-downscaler.
 
 
 ### Kubernetes // Leader Election

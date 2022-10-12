@@ -168,6 +168,7 @@ Smart Rebuilds, Continuous Feedback, Live Updates, Snapshots, and a lot more. ti
 
 - [Earthly](https://www.earthly.dev/) - Build automation for the container era
 - [Makisu](https://github.com/uber/makisu) - Fast and flexible Docker image building tool, works in unprivileged containerized environments like Mesos and Kubernetes.
+- [Dagger](https://dagger.io/) - A PORTABLE DEVKIT FOR CI/CD PIPELINES.
 
 ## On prem
 

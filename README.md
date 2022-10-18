@@ -214,3 +214,8 @@ Networks, firewalls etc
 ## Performance related
 
 - [ec2-boot-bench](https://github.com/cperciva/ec2-boot-bench) - [Benchmark](https://www.daemonology.net/blog/2021-08-12-EC2-boot-time-benchmarking.html) EC2 instance boot time from API call to accepting TCP connections.
+
+## Browser automation
+
+- [Rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping [go-rod.github.io](https://go-rod.github.io/)
+

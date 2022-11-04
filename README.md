@@ -219,3 +219,7 @@ Networks, firewalls etc
 
 - [Rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping [go-rod.github.io](https://go-rod.github.io/)
 
+## Jsonnet
+
+- [jsonnet-training-course](https://github.com/jsonnet-libs/jsonnet-training-course) An awesome jsonnet training course by some of the Grafana folks - https://jsonnet-libs.github.io/jsonnet-training-course/
+- 

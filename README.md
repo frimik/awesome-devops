@@ -146,6 +146,7 @@ Smart Rebuilds, Continuous Feedback, Live Updates, Snapshots, and a lot more. ti
   - [Variant](https://github.com/mumoshu/variant) - Wrap up your bash scripts into a modern CLI today. Graduate to a full-blown golang app tomorrow.
 - [NixOS](https://nixos.org/) - Reproducible builds and deployments.
 - [repo](https://gerrit.googlesource.com/git-repo/) - The Multiple Git Repository Tool
+- [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 
 ## Templating and configuration management
 

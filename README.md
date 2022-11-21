@@ -32,6 +32,8 @@ A list of truly awesome SRE or DevOps related stuff.
 - [cloudprober](https://cloudprober.org/) - An active monitoring software to detect failures before your customers do.
 - [kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) - Prometheus Monitoring Mixin for Kubernetes - A set of Grafana dashboards and Prometheus alerts for Kubernetes.
 - [vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
+- [gatus](https://github.com/TwiN/gatus) - ⛑ Automated service health dashboard - https://gatus.io
+- [uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool - https://uptime.kuma.pet
 
 ### Kubernetes // Grafana
 

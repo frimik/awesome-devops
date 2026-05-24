@@ -153,6 +153,7 @@ Smart Rebuilds, Continuous Feedback, Live Updates, Snapshots, and a lot more. ti
 - [repo](https://gerrit.googlesource.com/git-repo/) - The Multiple Git Repository Tool
 - [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [the-way](https://github.com/out-of-cheese-error/the-way/) - A code snippets manager for your terminal.
+- [git-cliff](https://git-cliff.org/) - A highly customizable changelog generator ⛰️
 
 ## Templating and configuration management
 

@@ -180,6 +180,7 @@ Smart Rebuilds, Continuous Feedback, Live Updates, Snapshots, and a lot more. ti
 - [Dagger](https://dagger.io/) - A PORTABLE DEVKIT FOR CI/CD PIPELINES.
 - [Melange](https://github.com/chainguard-dev/melange) - build APKs from source code.
 - [apko](https://github.com/chainguard-dev/apko) - apko: apk-based OCI image builder - Build OCI images using APK directly without Dockerfile
+- [LayerSmith](https://github.com/r0lfi/layersmith) - Build OCI container images with Docker or Podman through a self-hosted web UI, with distro-aware templates, editable Containerfiles, and air-gap exports.
 
 ## Container Image and Container OS
 

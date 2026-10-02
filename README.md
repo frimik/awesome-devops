@@ -154,6 +154,7 @@ Smart Rebuilds, Continuous Feedback, Live Updates, Snapshots, and a lot more. ti
 - [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [the-way](https://github.com/out-of-cheese-error/the-way/) - A code snippets manager for your terminal.
 - [git-cliff](https://git-cliff.org/) - A highly customizable changelog generator ⛰️
+- [relnote](https://github.com/loki-inu/relnote) - Offline stdlib Python CLI and GitHub Action for conventional-commit release notes (no API, no config)
 
 ## Templating and configuration management
 

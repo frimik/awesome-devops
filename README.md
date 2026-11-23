@@ -155,6 +155,7 @@ Smart Rebuilds, Continuous Feedback, Live Updates, Snapshots, and a lot more. ti
 - [the-way](https://github.com/out-of-cheese-error/the-way/) - A code snippets manager for your terminal.
 - [git-cliff](https://git-cliff.org/) - A highly customizable changelog generator ⛰️
 - [relnote](https://github.com/loki-inu/relnote) - Offline stdlib Python CLI and GitHub Action for conventional-commit release notes (no API, no config)
+- [NextJSON](https://nextjson.com/) - Free browser-based nested JSON parser and formatter that also unwraps JSON strings stored inside JSON fields.
 
 ## Templating and configuration management
 
